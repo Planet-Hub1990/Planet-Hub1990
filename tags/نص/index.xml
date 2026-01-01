@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>نص on 星球中继站-PlanetHub</title>
-        <link>https://Planet-Hub1990.github.io/tags/%D9%86%D8%B5/</link>
+        <link>/tags/%D9%86%D8%B5/</link>
         <description>Recent content in نص on 星球中继站-PlanetHub</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>星球中继站-PlanetHub</copyright><atom:link href="https://Planet-Hub1990.github.io/tags/%D9%86%D8%B5/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>星球中继站-PlanetHub</copyright><atom:link href="/tags/%D9%86%D8%B5/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
