@@ -5,6 +5,11 @@
     <loc>https://Planet-Hub.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="ja"
+                href="https://Planet-Hub.github.io/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="https://Planet-Hub.github.io/categories/"
                 />
@@ -12,11 +17,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://Planet-Hub.github.io/zh-tw/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://Planet-Hub.github.io/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -54,13 +54,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://Planet-Hub.github.io/ja/tags/"
+                hreflang="zh-tw"
+                href="https://Planet-Hub.github.io/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://Planet-Hub.github.io/zh-tw/tags/"
+                hreflang="ja"
+                href="https://Planet-Hub.github.io/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
