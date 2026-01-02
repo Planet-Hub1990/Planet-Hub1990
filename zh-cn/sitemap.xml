@@ -2,197 +2,197 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/</loc>
     <lastmod>2026-01-01T14:42:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/"
                 />
   </url><url>
-    <loc>/p/myfirstblog/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/myfirstblog/</loc>
     <lastmod>2026-01-01T14:42:37+08:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/post/</loc>
     <lastmod>2026-01-01T14:42:37+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/post/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/post/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/post/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/post/"
                 />
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/categories/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/categories/"
-                />
-  </url><url>
-    <loc>/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/p/test-chinese/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/p/test-chinese/"
-                />
-  </url><url>
-    <loc>/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/categories/test/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/categories/test/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/categories/test/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/categories/"
                 />
   </url><url>
-    <loc>/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/test-chinese/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/p/test-chinese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/p/test-chinese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/p/test-chinese/"
+                />
+  </url><url>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/test/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/categories/test/"
+                />
+  </url><url>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/page/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/css/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/html/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/p/markdown-syntax-guide/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/syntax/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/tags/"
                 />
   </url><url>
-    <loc>/categories/themes/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/themes/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/p/placeholder-text/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tag-with-whitespaces/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/test-with-whitespaces/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/text/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/p/math-typesetting/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/emoji/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/p/emoji-support/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9/</loc>
   </url><url>
-    <loc>/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/categories/%D8%AA%D8%AC%D8%B1%D8%A8%D8%A9-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
   </url><url>
-    <loc>/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</loc>
   </url><url>
-    <loc>/tags/%D9%86%D8%B5/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/%D9%86%D8%B5/</loc>
   </url><url>
-    <loc>/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/tags/%D9%88%D8%B3%D9%85-%D9%85%D8%B9-%D9%81%D8%B1%D8%A7%D8%BA%D8%A7%D8%AA/</loc>
   </url><url>
-    <loc>/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/%E5%85%B3%E4%BA%8E/</loc>
   </url><url>
-    <loc>/search/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/search/</loc>
   </url><url>
-    <loc>/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
   </url>
 </urlset>
