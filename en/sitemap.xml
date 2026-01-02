@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="/ja/categories/"
-                />
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/categories/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/categories/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/en/categories/"
                 />
   </url><url>
-    <loc>/en/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/en/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="/ja/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/en/tags/"
                 />
   </url>
 </urlset>
