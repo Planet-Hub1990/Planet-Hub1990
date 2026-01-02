@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>ماركداون on 星球中继站-PlanetHub</title>
-        <link>/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
+        <link>https://planet-hub1990.github.io/Planet-Hub1990/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/</link>
         <description>Recent content in ماركداون on 星球中继站-PlanetHub</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>星球中继站-PlanetHub</copyright><atom:link href="/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>星球中继站-PlanetHub</copyright><atom:link href="https://planet-hub1990.github.io/Planet-Hub1990/tags/%D9%85%D8%A7%D8%B1%D9%83%D8%AF%D8%A7%D9%88%D9%86/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
