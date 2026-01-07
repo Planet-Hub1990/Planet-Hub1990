@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://planet-hub1990.github.io/Planet-Hub1990/</loc>
-    <lastmod>2026-01-07T16:09:44+08:00</lastmod>
+    <lastmod>2026-01-07T16:18:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,11 +25,8 @@
                 href="https://planet-hub1990.github.io/Planet-Hub1990/"
                 />
   </url><url>
-    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/newnewnew/</loc>
-    <lastmod>2026-01-07T16:09:44+08:00</lastmod>
-  </url><url>
     <loc>https://planet-hub1990.github.io/Planet-Hub1990/post/</loc>
-    <lastmod>2026-01-07T16:09:44+08:00</lastmod>
+    <lastmod>2026-01-07T16:18:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -45,6 +42,12 @@
                 hreflang="zh-cn"
                 href="https://planet-hub1990.github.io/Planet-Hub1990/post/"
                 />
+  </url><url>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2026-01-07T16:18:13+08:00</lastmod>
+  </url><url>
+    <loc>https://planet-hub1990.github.io/Planet-Hub1990/p/newnewnew/</loc>
+    <lastmod>2026-01-07T16:09:44+08:00</lastmod>
   </url><url>
     <loc>https://planet-hub1990.github.io/Planet-Hub1990/newnewnew/</loc>
     <lastmod>2026-01-07T16:07:30+08:00</lastmod>
@@ -97,13 +100,13 @@
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/categories/test/"
+                hreflang="zh-tw"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/categories/test/"
+                hreflang="ja"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -144,13 +147,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/tags/"
+                hreflang="zh-tw"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-tw"
-                href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/tags/"
+                hreflang="ja"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/tags/"
                 />
     <xhtml:link
                 rel="alternate"

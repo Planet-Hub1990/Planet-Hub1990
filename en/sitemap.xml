@@ -5,11 +5,6 @@
     <loc>https://planet-hub1990.github.io/Planet-Hub1990/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="ja"
-                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
                 href="https://planet-hub1990.github.io/Planet-Hub1990/categories/"
                 />
@@ -17,6 +12,11 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="https://planet-hub1990.github.io/Planet-Hub1990/zh-tw/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://planet-hub1990.github.io/Planet-Hub1990/ja/categories/"
                 />
     <xhtml:link
                 rel="alternate"
